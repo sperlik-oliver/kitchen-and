@@ -4,7 +4,7 @@ The goal of this application is to improve the user's experience when it comes t
 Another aim of the application is to provide the user with some quality of life features that will simplify the interactions between ingredients, recipes and meal planning.
 
 
-<h4>Functional Requirements</h4>
+<h3>Functional Requirements</h3>
 
 <b>Critical</b> 
 </br>
@@ -29,9 +29,8 @@ Another aim of the application is to provide the user with some quality of life 
 - [ ] As a user, I want to create categories of recipes, so that I can filter recipes by category
 </br>
 
-<h4>Non-Functional Requirements</h4>
+<h3>Non-Functional Requirements</h3>
 </br>
-
 - [ ] The application front-end will be created using Kotlin
 - [ ] The application back-end will be created using Firebase
 - [ ] The application will utilise the MVVM architecture
