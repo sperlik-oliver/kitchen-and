@@ -15,7 +15,7 @@ The goal of this application is to improve the user's experience when it comes t
 
 <b>High</b>
 </br>
-- [ ] As a user, I want to create recipes with ingredients, instructions and category, so that I can follow them when cooking
+- [ ] As a user, I want to create recipes with ingredients, instructions, category and picture, so that I can follow them when cooking
 - [ ] As a user, I want to edit recipes, so that they match my new procedure
 - [ ] As a user, I want to delete recipes, so that I don't see recipes that I don't want to cook anymore
 - [ ] As a user, I want to schedule recipes in the meal planner, so that I can plan when I am going to cook and eat them
