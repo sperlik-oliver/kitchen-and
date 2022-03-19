@@ -26,6 +26,9 @@ The goal of this application is to improve the user's experience when it comes t
 <b>Medium</b>
 </br>
 - [ ] As a user, I want to add all ingredients from a recipe to my shopping list, so that I can go shopping faster
+- [ ] As a user, I want to add a picture to a recipe, so that I can see the food before cooking it
+- [ ] As a user, I want to edit the picture of a recipe, so that it better matches the look of the food
+- [ ] As a user, I want to remove the picture of a recipe, so that I don't see pictures that I don't need anymore
 </br>
 
 <b>Low</b>
@@ -38,9 +41,6 @@ The goal of this application is to improve the user's experience when it comes t
 - [ ] As a user, I want to delete categories of recipes, so that I don't see categories that I don't need anymore
 - [ ] As a user, I want to use a search function, so that I can look for ingredients or recipes by name
 - [ ] As a user, I want to categorise recipes in my meal planner by date and time or meal kind
-- [ ] As a user, I want to add a picture to a recipe, so that I can see the food before cooking it
-- [ ] As a user, I want to edit the picture of a recipe, so that it better matches the look of the food
-- [ ] As a user, I want to remove the picture of a recipe, so that I don't see pictures that I don't need anymore
 </br>
 
 <h3>Non-Functional Requirements</h3>
