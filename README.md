@@ -16,22 +16,22 @@ Another aim of the application is to provide the user with some quality of life 
 </br>
 - [ ] As a user, I want to create recipes with ingredients and instructions, so that I can follow them when cooking meals
 - [ ] As a user, I want to schedule recipes in the meal planner, so that I can plan when I am going to cook and eat them
-<br>
+</br>
 
 <b>Medium</b>
 </br>
 - [ ] As a user, I want to add all ingredients from a recipe to my shopping list, so that I can go shopping faster
-<br>
+</br>
 
 <b>Low</b>
 </br>
 - [ ] As a user, I want to create groups in my shopping list, so that I can group ingredients together
 - [ ] As a user, I want to create categories of recipes, so that I can filter recipes by category
-<br>
+</br>
 
 <h4>Non-Functional Requirements</h4>
 </br>
-- [ x ] The application front-end will be created using Kotlin
+- [ ] The application front-end will be created using Kotlin
 - [ ] The application back-end will be created using Firebase
 - [ ] The application will utilise the MVVM architecture
 - [ ] The application will be tested using Unit and UI Testing
