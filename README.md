@@ -8,14 +8,20 @@ Another aim of the application is to provide the user with some quality of life 
 
 <b>Critical</b> 
 </br>
-- [ ] As a user, I want to create ingredients in my shopping list, so that I can remmember what I want to purchase
+- [ ] As a user, I want to create ingredients in my shopping list, so that I can remember what I want to purchase
+- [ ] As a user, I want to delete ingredients from my shopping list, so that the shopping list matches what I need if I change my mind
+- [ ] As a user, I want to mark shopping list ingredients as purchased, so that I can see which ingredients I don't need anymore
 - [ ] As a user, I want to register and log in, so that I can keep my information when I switch devices
 </br>
 
 <b>High</b>
 </br>
-- [ ] As a user, I want to create recipes with ingredients and instructions, so that I can follow them when cooking meals
+- [ ] As a user, I want to create recipes with ingredients, instructions and category, so that I can follow them when cooking meals
+- [ ] As a user, I want to edit recipes, so that they match my new procedure
+- [ ] As a user, I want to delete recipes, so that I don't see recipes that I don't want to cook anymore
 - [ ] As a user, I want to schedule recipes in the meal planner, so that I can plan when I am going to cook and eat them
+- [ ] As a user, I want to edit the schedule in the meal planner, so that it matches my new plan
+- [ ] As a user, I want to delete recipes from the meal planner, so that the schedule matches my new plan
 </br>
 
 <b>Medium</b>
@@ -26,7 +32,11 @@ Another aim of the application is to provide the user with some quality of life 
 <b>Low</b>
 </br>
 - [ ] As a user, I want to create groups in my shopping list, so that I can group ingredients together
+- [ ] As a user, I want to edit groups in my shopping list, so that the ingredients are grouped according to my new needs
+- [ ] As a user, I want to delete groups from my shopping list, so that I don't see groups that I don't need anymore
 - [ ] As a user, I want to create categories of recipes, so that I can filter recipes by category
+- [ ] As a user, I want to edit categories of recipes, so that I can filter recipes according to my new needs
+- [ ] As a user, I want to delete categories of recipes, so that I don't see categories that I don't need anymore
 </br>
 
 <h3>Non-Functional Requirements</h3>
@@ -36,4 +46,5 @@ Another aim of the application is to provide the user with some quality of life 
 - [ ] The application will utilise the MVVM architecture
 - [ ] The application will be tested using Unit and UI Testing
 - [ ] The login system will use email and password
+
 
