@@ -14,7 +14,7 @@ Another aim of the application is to provide the user with some quality of life 
 - [ ] As a user, I want to register and log in, so that I can keep my information when I switch devices
 
 <b>Non-Functional Requirements</b>
-- [ ] The application front-end will be created using Kotlin
+- [x] The application front-end will be created using Kotlin
 - [ ] The application back-end will be created using Firebase
 - [ ] The application will utilise the MVVM architecture
 - [ ] The application will be tested using Unit and UI Testing
