@@ -30,7 +30,6 @@ Another aim of the application is to provide the user with some quality of life 
 </br>
 
 <h3>Non-Functional Requirements</h3>
-</br>
 - [ ] The application front-end will be created using Kotlin
 - [ ] The application back-end will be created using Firebase
 - [ ] The application will utilise the MVVM architecture
