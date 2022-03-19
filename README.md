@@ -38,7 +38,7 @@ Another aim of the application is to provide the user with some quality of life 
 - [ ] As a user, I want to edit categories of recipes, so that I can filter recipes according to my new needs
 - [ ] As a user, I want to delete categories of recipes, so that I don't see categories that I don't need anymore
 - [ ] As a user, I want to use a search function, so that I can look for ingredients or recipes by name
-- [ ] As a user, I want to categorise recipes in my meal planner by day and time or meal kind
+- [ ] As a user, I want to categorise recipes in my meal planner by date and time or meal kind
 </br>
 
 <h3>Non-Functional Requirements</h3>
