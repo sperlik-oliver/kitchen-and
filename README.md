@@ -1,7 +1,6 @@
 # kitchen-and
 
-The goal of this application is to improve the user's experience when it comes to cooking by allowing the storage of ingredients, recipes and meal plans all in one place. <br>
-Another aim of the application is to provide the user with some quality of life features that will simplify the interactions between ingredients, recipes and meal planning.
+The goal of this application is to improve the user's experience when it comes to cooking by allowing the storage of ingredients, recipes and meal plans all in one place. The application aims to provide the user with some quality of life features that will simplify the interactions between ingredients, recipes and meal planning.
 
 
 <h3>Functional Requirements</h3>
