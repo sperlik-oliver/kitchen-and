@@ -52,5 +52,7 @@ Another aim of the application is to provide the user with some quality of life 
 - [ ] The application will be tested using Unit and UI Testing
 - [ ] The login system will use email and password
 
+<h3>Domain Model</h3>
+
 ![Screenshot 2022-03-19 at 14 46 00](https://user-images.githubusercontent.com/75211235/159123608-3e982a18-6c02-4541-a9e3-9facc5b30f34.png)
 
